@@ -4,6 +4,8 @@
 > Git is a free and open source distributed version control system designed to handle everything from small to very large projects with speed and efficiency. 
 
 Git(读音为/gɪt/。)是一个开源的分布式版本控制系统，可以有效、高速的处理从很小到非常大的项目版本管理。 
+
+GIT不仅仅是个版本控制系统，它也是个内容管理系统(CMS),工作管理系统等。
 ## 1.2 git的特性
 > Git is easy to learn and has a tiny footprint with lightning fast performance. It outclasses SCM tools like Subversion, CVS, Perforce, and ClearCase with features like cheap local branching, convenient staging areas, and multiple workflows. 
 
