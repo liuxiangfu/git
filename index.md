@@ -13,3 +13,5 @@ Git易于学习，占用空间小，具有闪电般的快速性能。它超越�
 # 4.svn迁移至git
 # 参考资料
 [1.Git权威指南 — GotGit  ](http://www.worldhello.net/gotgit/#git)
+[2.Pro Git v2](https://git-scm.com/book/zh/v2)
+
